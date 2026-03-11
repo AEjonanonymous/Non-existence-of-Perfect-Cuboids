@@ -58,11 +58,4 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 
 ## 📖 Citation
 
-```bibtex
-@article{reed2026cuboid,
-  author = {Reed, Jonathan f(n)},
-  title = {Proof of the Non-existence of Perfect Cuboids via Mordell-Weil Rank Exhaustion and Minimal Polynomial Irreducibility of the Perfect Cuboid Surface},
-  year = {2026},
-  journal = {GitHub Repository},
-  url = {[https://github.com/AEjonanonymous/Non-existence-of-Perfect-Cuboids](https://github.com/AEjonanonymous/Non-existence-of-Perfect-Cuboids)}
-}
+Reed, Jonathan ƒ(n). (2026). Proof of the Non-existence of Perfect Cuboids via Mordell Weil Rank Exhaustion and Minimal Polynomial Irreducibility of the Perfect Cuboid Surface (1.0). Zenodo. https://doi.org/10.5281/zenodo.18948631
