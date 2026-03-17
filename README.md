@@ -2,7 +2,7 @@
 
 This repository establishes the non-existence of the **Perfect Cuboid**. The analytical investigation—utilizing high-precision parametric sweeps and rational lifts—identified structural obstructions that are formally verified in the accompanying proof. The results demonstrate that the perfection locus is an irrational algebraic singularity, fundamentally incompatible with the field of rational numbers $\mathbb{Q}$. 
 
-## Updated with Lean 4 verification. ✅
+## Formalized with Lean 4. ✅
 
 ---
 
