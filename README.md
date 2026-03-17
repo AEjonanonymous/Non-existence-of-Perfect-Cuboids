@@ -46,7 +46,7 @@ Automates "Rational Lifts" ($P \to 2P \to 4P$) to simulate group doubling on the
 ## 📂 Repository Contents
 
 * **`Formal Proof of the Non-Existence of Perfect Cuboids...pdf`**: The formal verification and proof of the investigation's findings.
-* **`No Perfect Cuboids.lean`**: The complete Lean 4 proof script that codifies the manuscript's triple lock. It utilizes the Lean kernel to verify the Modular Obstruction, Geometric Obstruction, and Topological Obstruction, confirming the "No Goals" state for the non-existence of a perfect cuboid.
+* **`No Perfect Cuboids.lean`**: The complete Lean 4 proof script that codifies the manuscript's triple lock. It utilizes the Lean kernel to verify the Modular Obstruction, Geometric Obstruction, and Topological Obstruction, confirming the **No Goals** state for the non-existence of a perfect cuboid.
 * **`Saunderson_parametric_sweep.py`**: Investigation script identifying the $10^{-18}$ resonance.
 * **`Saunderson_P_Lift_calculator.py`**: Investigation script for Jacobian doubling and rational lifts.
 * **`Notes - The Elliptic Curve Method.pdf`**: Investigative notes documenting the path from Saunderson parametrization to the hyperelliptic model.
