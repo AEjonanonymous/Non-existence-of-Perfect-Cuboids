@@ -1,4 +1,4 @@
-# Proof of the Non-existence of Perfect Cuboids via Mordell-Weil Rank Exhaustion and Minimal Polynomial Irreducibility of the Perfect Cuboid Surface ∅
+# Formal Proof of the Non-existence of Perfect Cuboids via Mordell-Weil Rank Exhaustion and Minimal Polynomial Irreducibility of the Perfect Cuboid Surface ∅
 
 This repository establishes the non-existence of the **Perfect Cuboid**. The analytical investigation—utilizing high-precision parametric sweeps and rational lifts—identified structural obstructions that are formally verified in the accompanying proof. The results demonstrate that the perfection locus is an irrational algebraic singularity, fundamentally incompatible with the field of rational numbers $\mathbb{Q}$.
 
@@ -43,7 +43,7 @@ Automates "Rational Lifts" ($P \to 2P \to 4P$) to simulate group doubling on the
 
 ## 📂 Repository Contents
 
-* **`Proof of the Non-Existence of Perfect Cuboids...pdf`**: The formal verification and proof of the investigation's findings.
+* **`Formal Proof of the Non-Existence of Perfect Cuboids...pdf`**: The formal verification and proof of the investigation's findings.
 * **`Saunderson_parametric_sweep.py`**: Investigation script identifying the $10^{-18}$ resonance.
 * **`Saunderson_P_Lift_calculator.py`**: Investigation script for Jacobian doubling and rational lifts.
 * **`Notes - The Elliptic Curve Method.pdf`**: Investigative notes documenting the path from Saunderson parametrization to the hyperelliptic model.
