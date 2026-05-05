@@ -1,7 +1,10 @@
 import Lake
 open Lake DSL
 
-package "Non-existence-of-Perfect-Cuboids"
+package "non-existence-of-perfect-cuboids"
 
 @[default_target]
-lean_lib "Non-existence-of-Perfect-Cuboids"
+lean_lib «No Perfect Cuboids»
+
+require mathlib from git
+  "https://github.com/leanprover-community/mathlib4.git" @ "v4.28.0"
