@@ -1,8 +1,8 @@
 import Lake
 open Lake DSL
 
-package «non-existence-of-perfect-cuboids» where
+package «NonExistenceOfPerfectCuboids» where
 
 @[default_target]
-lean_lib «non-existence-of-perfect-cuboids» where
+lean_lib «NonExistenceOfPerfectCuboids» where
   srcDir := "."
