@@ -1,0 +1,14 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "parity_wall_consistency",
+    "perfection_locus_empty",
+    "no_perfect_cuboid_final"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}
