@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "Formal Proof of the Non-existence of Perfect Cuboids via Mordell Weil Rank Exhaustion and Minimal Polynomial Irreducibility of the Perfect Cuboid Surface."
+version: 1.0.0
+doi: 10.5281/zenodo.19074228
+date-released: 2026-03-11
